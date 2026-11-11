@@ -11,7 +11,7 @@ st.set_page_config(
     layout="centered"
 )
 
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "http://ai-skill-predictor-2-2.onrender.com"
 
 # ==================================
 # SESSION STATE INIT
